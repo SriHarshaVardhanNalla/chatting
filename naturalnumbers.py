@@ -10,6 +10,6 @@ def recur_sum(n):
 num = 16
 
 if num < 0:
-   print("Enter a positive number")
+   print("Enter e positive number")
 else:
    print("The sum is",recur_sum(num))
