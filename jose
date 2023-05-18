@@ -1,3 +1,13 @@
 GMC is good car
 mythri pittala didn't liked it
+At the command prompt, type exit.
+> exit
+Depending on the device configuration, you may be presented with another menu, for example:
+Access selection menu:
 
+	a: Admin CLI
+	s: Shell
+	q: Quit
+
+Select access or quit [admin] :
+Type q or quit to exit.
